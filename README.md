@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudecignts&show_icons=true&locale=en" alt="sudecignts" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudecignts&" alt="sudecignts" /></p>
+
 ![snake gif](https://github.com/sudeCignts/sudeCignts/blob/output/github-contribution-grid-snake.gif)
